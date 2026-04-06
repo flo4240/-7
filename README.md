@@ -8,10 +8,10 @@
 ---
 
 ## 1.목차 (바로가기)
-1. [필수 개인 보호 장구]()
-2. [시약 취급 및 안전 수칙](https://github.com/flo4240/-7/blob/main/2.%EC%8B%9C%EC%95%BD%20%EC%B7%A8%EA%B8%89%20%EB%B0%8F%20%EC%95%88%EC%A0%84%20%EC%88%98%EC%B9%99.md)
-3. [폐기물 처리 및 정리정돈]()
-4. [사고 발생 시 응급 대처](https://github.com/flo4240/-7/blob/main/4.%EC%82%AC%EA%B3%A0%20%EB%B0%9C%EC%83%9D%20%EC%8B%9C%20%EB%8C%80%EC%B2%98.md)
+1.  [필수 개인 보호 장구]()
+2.  [시약 취급 및 안전 수칙](https://github.com/flo4240/-7/blob/main/2.%EC%8B%9C%EC%95%BD%20%EC%B7%A8%EA%B8%89%20%EB%B0%8F%20%EC%95%88%EC%A0%84%20%EC%88%98%EC%B9%99.md)
+3.  [폐기물 처리 및 정리정돈]()
+4.  [사고 발생 시 응급 대처](https://github.com/flo4240/-7/blob/main/4.%EC%82%AC%EA%B3%A0%20%EB%B0%9C%EC%83%9D%20%EC%8B%9C%20%EB%8C%80%EC%B2%98.md)
 
 ---
 ## 2.팀원 및 역할 분담
